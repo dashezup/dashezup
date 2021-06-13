@@ -1,7 +1,7 @@
 ### About Dash Eclipse
 
 Hello, I'm Dash. I like publishing open source projects, and I provide some
-public services, Telegram bots and some projects for self-hosting.
+public services and Telegram bots.
 
 **My Services**:
 
@@ -26,6 +26,10 @@ Licensed under AGPL
 - [dashezup/tgbot](https://github.com/dashezup/tgbot)
 - [dashezup/github-webhook-to-telegram](https://github.com/dashezup/github-webhook-to-telegram)
 - [dashezup/feed2tg](https://github.com/dashezup/feed2tg)
+
+**My Programs/Apps**:
+
+- [gboard-swype](https://github.com/dashezup/gboard-swype)
 
 ![Dash Eclipse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dashezup&show_icons=true&include_all_commits=true&theme=vue-dark)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dashezup&theme=vue-dark&layout=compact)  
