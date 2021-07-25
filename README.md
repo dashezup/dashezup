@@ -1,4 +1,8 @@
-### About Dash Eclipse
+## About Dash Eclipse
+
+<p>
+	<a href="https://www.fiverr.com/dashezup" alt="Fiverr"><img src="https://img.shields.io/badge/Fiverr-HIRE%20ME%20(dashezup)-1dbf73" /></a>
+</p>
 
 Hello, I'm Dash. I like publishing open source projects, and I provide some
 public services and Telegram bots.
