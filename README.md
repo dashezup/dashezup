@@ -1,4 +1,4 @@
-## About Dash Eclipse
+## About Dash Eclipse (ezup.dev)
 
 <p>
     <a href="https://www.fiverr.com/dashezup" alt="Fiverr"><img src="https://img.shields.io/badge/HIRE%20ME-Fiverr-1dbf73" /></a>
