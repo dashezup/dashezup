@@ -1,7 +1,8 @@
 ## About Dash Eclipse
 
 <p>
-	<a href="https://www.fiverr.com/dashezup" alt="Fiverr"><img src="https://img.shields.io/badge/Fiverr-HIRE%20ME%20(dashezup)-1dbf73" /></a>
+    <a href="https://www.fiverr.com/dashezup" alt="Fiverr"><img src="https://img.shields.io/badge/HIRE%20ME-Fiverr-1dbf73" /></a>
+    <a href="https://t.me/s/dashezup" alt="Fiverr"><img src="https://img.shields.io/badge/channel-Telegram-0088cc" /></a>
 </p>
 
 Hello, I'm Dash. I like publishing open source projects, and I provide some
